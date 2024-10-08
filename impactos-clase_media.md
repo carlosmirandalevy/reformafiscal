@@ -1,4 +1,4 @@
-# Impactos de la Ley de Modernización Fiscal en la Clase Media
+# Impactos de la Ley de Modernización Fiscal en la Clase Media (Notebook LM)
 
 Las fuentes detallan varios aspectos de la propuesta de Ley de Modernización Fiscal en la República Dominicana y cómo impactan a diferentes segmentos de la sociedad. Aunque no hay una sección específica que se enfoque exclusivamente en la clase media, las fuentes proporcionan información que permite un análisis integral de los posibles impactos de esta legislación en esta demografía.
 
